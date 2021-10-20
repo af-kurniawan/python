@@ -1,0 +1,723 @@
+{
+    "2017190577": {
+        "listingType": "NewHomes",
+        "id": 2017190577,
+        "projectId": 5147,
+        "advertiser": {
+            "type": "Agency",
+            "id": 31250,
+            "name": " R & F Property",
+            "logoUrl": "https://images.domain.com.au/img/Agencys/31250/logo_31250.gif?date=132158420786154352",
+            "preferredColourHex": "#fFFFFF",
+            "bannerUrl": "https://images.domain.com.au/img/Agencys/31250/banner_31250.gif?date=132158421037274127",
+            "contacts": [
+                {
+                    "name": "R&F Sales Team",
+                    "photoUrl": "https://images.domain.com.au/img/31250/contact_1701824.jpeg?mod=210927-151729"
+                }
+            ]
+        },
+        "priceDetails": {
+            "price": 571000,
+            "priceFrom": 571000,
+            "priceTo": 571000,
+            "displayPrice": "$571,000"
+        },
+        "media": [
+            {
+                "category": "Image",
+                "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017190577_1_1_210812_032348-w2000-h1333"
+            },
+            {
+                "category": "Image",
+                "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017190577_2_1_210812_032348-w2000-h1514"
+            },
+            {
+                "category": "Image",
+                "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017190577_3_1_210812_032348-w2000-h1333"
+            },
+            {
+                "category": "Image",
+                "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017190577_4_1_210812_032348-w2000-h1514"
+            },
+            {
+                "category": "Image",
+                "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017190577_5_1_210812_032348-w2000-h957"
+            }
+        ],
+        "propertyDetails": {
+            "state": "VIC",
+            "features": [
+                "SwimmingPool",
+                "Gym"
+            ],
+            "propertyType": "NewApartments",
+            "allPropertyTypes": [
+                "NewApartments"
+            ],
+            "bathrooms": 1.0,
+            "bedrooms": 1.0,
+            "carspaces": 1,
+            "unitNumber": "Lot 1905",
+            "streetNumber": "9-11",
+            "street": "Prospect Street",
+            "area": "Whitehorse",
+            "region": "Eastern Suburbs",
+            "suburb": "BOX HILL",
+            "postcode": "3128",
+            "displayableAddress": "Lot 1905/9-11 Prospect Street, Box Hill",
+            "latitude": -37.8185768,
+            "longitude": 145.118912
+        },
+        "headline": "Luxurious 1-Bed 1 Bath apartment room in Box Hill",
+        "summaryDescription": "<b></b><br />Residing at the heart of Box Hill is 9 Prospect Street is a luxurious residential community in the heart of Melbourne's South-East.\r\n\r\nResidents can experience stunning views of the CBD and Dandenongs while enjoying five-star amenities  in...",
+        "hasFloorplan": false,
+        "hasVideo": false,
+        "labels": [
+            "New homes"
+        ],
+        "inspectionSchedule": {
+            "byAppointment": true,
+            "recurring": false,
+            "times": []
+        },
+        "listingSlug": "lot-1905-9-11-prospect-street-box-hill-vic-3128-2017190577"
+    },
+    "2017198503": {
+        "listingType": "NewHomes",
+        "id": 2017198503,
+        "projectId": 5147,
+        "advertiser": {
+            "type": "Agency",
+            "id": 31250,
+            "name": " R & F Property",
+            "logoUrl": "https://images.domain.com.au/img/Agencys/31250/logo_31250.gif?date=132158420786154352",
+            "preferredColourHex": "#fFFFFF",
+            "bannerUrl": "https://images.domain.com.au/img/Agencys/31250/banner_31250.gif?date=132158421037274127",
+            "contacts": [
+                {
+                    "name": "R&F Sales Team",
+                    "photoUrl": "https://images.domain.com.au/img/31250/contact_1701824.jpeg?mod=210927-151729"
+                }
+            ]
+        },
+        "priceDetails": {
+            "price": 610415,
+            "priceFrom": 610415,
+            "priceTo": 610415,
+            "displayPrice": "$610,415"
+        },
+        "media": [
+            {
+                "category": "Image",
+                "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017198503_7_1_210817_042102-w1000-h757"
+            },
+            {
+                "category": "Image",
+                "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017198503_4_1_210817_042102-w1000-h636"
+            },
+            {
+                "category": "Image",
+                "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017198503_1_1_210817_042102-w1000-h563"
+            },
+            {
+                "category": "Image",
+                "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017198503_2_1_210817_042102-w1000-h750"
+            },
+            {
+                "category": "Image",
+                "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017198503_3_1_210817_042102-w1000-h563"
+            }
+        ],
+        "propertyDetails": {
+            "state": "VIC",
+            "features": [
+                "SecureParking",
+                "SwimmingPool",
+                "Gym",
+                "AlarmSystem",
+                "BroadbandInternetAccess",
+                "Dishwasher",
+                "Study",
+                "BalconyDeck"
+            ],
+            "propertyType": "NewApartments",
+            "allPropertyTypes": [
+                "NewApartments"
+            ],
+            "bathrooms": 1.0,
+            "bedrooms": 1.0,
+            "unitNumber": "Lot 1710",
+            "streetNumber": "9-11",
+            "street": "Prospect Street",
+            "area": "Whitehorse",
+            "region": "Eastern Suburbs",
+            "suburb": "BOX HILL",
+            "postcode": "3128",
+            "displayableAddress": "Lot 1710/9-11 Prospect Street, Box Hill",
+            "latitude": -37.8185768,
+            "longitude": 145.118912,
+            "buildingArea": 58.0
+        },
+        "headline": "Luxurious 1-Bed 1 Bath apartment room in Box Hill -- Construction commenced!",
+        "summaryDescription": "<b></b><br />Residing at the heart of Box Hill is 9 Prospect Street is a luxurious residential community in the heart of Melbourne's South-East. \r\n\r\nResidents can experience stunning views of the CBD and Dandenongs while enjoying five-star amenities  i...",
+        "hasFloorplan": true,
+        "hasVideo": false,
+        "labels": [
+            "New homes"
+        ],
+        "inspectionSchedule": {
+            "byAppointment": true,
+            "recurring": false,
+            "times": []
+        },
+        "listingSlug": "lot-1710-9-11-prospect-street-box-hill-vic-3128-2017198503"
+    },
+    "2017198583": {
+        "listingType": "NewHomes",
+        "id": 2017198583,
+        "projectId": 5147,
+        "advertiser": {
+            "type": "Agency",
+            "id": 31250,
+            "name": " R & F Property",
+            "logoUrl": "https://images.domain.com.au/img/Agencys/31250/logo_31250.gif?date=132158420786154352",
+            "preferredColourHex": "#fFFFFF",
+            "bannerUrl": "https://images.domain.com.au/img/Agencys/31250/banner_31250.gif?date=132158421037274127",
+            "contacts": [
+                {
+                    "name": "R&F Sales Team",
+                    "photoUrl": "https://images.domain.com.au/img/31250/contact_1701824.jpeg?mod=210927-151729"
+                }
+            ]
+        },
+        "priceDetails": {
+            "price": 662853,
+            "priceFrom": 662853,
+            "priceTo": 662853,
+            "displayPrice": "$662,853"
+        },
+        "media": [
+            {
+                "category": "Image",
+                "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017198503_8_1_210817_042102-w1000-h464"
+            },
+            {
+                "category": "Image",
+                "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017198503_11_1_210817_042102-w1000-h564"
+            },
+            {
+                "category": "Image",
+                "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017198503_7_1_210817_042102-w1000-h757"
+            },
+            {
+                "category": "Image",
+                "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017198503_3_1_210817_042102-w1000-h563"
+            },
+            {
+                "category": "Image",
+                "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017198503_1_1_210817_042102-w1000-h563"
+            }
+        ],
+        "propertyDetails": {
+            "state": "VIC",
+            "features": [
+                "AirConditioning",
+                "BuiltInWardrobes",
+                "SecureParking",
+                "SwimmingPool",
+                "Gym",
+                "AlarmSystem",
+                "Dishwasher",
+                "Study",
+                "BalconyDeck"
+            ],
+            "propertyType": "NewApartments",
+            "allPropertyTypes": [
+                "NewApartments"
+            ],
+            "bathrooms": 2.0,
+            "bedrooms": 2.0,
+            "unitNumber": "Lot 1001",
+            "streetNumber": "9-11",
+            "street": "Prospect Street",
+            "area": "Whitehorse",
+            "region": "Eastern Suburbs",
+            "suburb": "BOX HILL",
+            "postcode": "3128",
+            "displayableAddress": "Lot 1001/9-11 Prospect Street, Box Hill",
+            "latitude": -37.8185768,
+            "longitude": 145.118912,
+            "buildingArea": 79.0
+        },
+        "headline": "Luxurious 2-Bed apartment + Study room in Box Hill -- Construction commenced!",
+        "summaryDescription": "<b></b><br />Residing at the heart of Box Hill is 9 Prospect Street is a luxurious residential community in the heart of Melbourne's South-East. \r\n\r\nResidents can experience stunning views of the CBD and Dandenongs while enjoying five-star amenities  i...",
+        "hasFloorplan": true,
+        "hasVideo": false,
+        "labels": [
+            "New homes"
+        ],
+        "inspectionSchedule": {
+            "byAppointment": true,
+            "recurring": false,
+            "times": []
+        },
+        "listingSlug": "lot-1001-9-11-prospect-street-box-hill-vic-3128-2017198583"
+    },
+    "2017198614": {
+        "listingType": "NewHomes",
+        "id": 2017198614,
+        "projectId": 5147,
+        "advertiser": {
+            "type": "Agency",
+            "id": 31250,
+            "name": " R & F Property",
+            "logoUrl": "https://images.domain.com.au/img/Agencys/31250/logo_31250.gif?date=132158420786154352",
+            "preferredColourHex": "#fFFFFF",
+            "bannerUrl": "https://images.domain.com.au/img/Agencys/31250/banner_31250.gif?date=132158421037274127",
+            "contacts": [
+                {
+                    "name": "R&F Sales Team",
+                    "photoUrl": "https://images.domain.com.au/img/31250/contact_1701824.jpeg?mod=210927-151729"
+                }
+            ]
+        },
+        "priceDetails": {
+            "price": 718504,
+            "priceFrom": 718504,
+            "priceTo": 718504,
+            "displayPrice": "$718,504"
+        },
+        "media": [
+            {
+                "category": "Image",
+                "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017198503_7_1_210817_042102-w1000-h757"
+            },
+            {
+                "category": "Image",
+                "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017198503_6_1_210817_042102-w561-h800"
+            },
+            {
+                "category": "Image",
+                "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017198503_9_1_210817_042102-w533-h800"
+            },
+            {
+                "category": "Image",
+                "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017198503_1_1_210817_042102-w1000-h563"
+            },
+            {
+                "category": "Image",
+                "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017198503_2_1_210817_042102-w1000-h750"
+            }
+        ],
+        "propertyDetails": {
+            "state": "VIC",
+            "features": [
+                "AirConditioning",
+                "SecureParking",
+                "SwimmingPool",
+                "Gym",
+                "AlarmSystem",
+                "BroadbandInternetAccess",
+                "Dishwasher",
+                "Study",
+                "BalconyDeck"
+            ],
+            "propertyType": "NewApartments",
+            "allPropertyTypes": [
+                "NewApartments"
+            ],
+            "bathrooms": 1.0,
+            "bedrooms": 2.0,
+            "unitNumber": "Lot 603",
+            "streetNumber": "9-11",
+            "street": "Prospect Street",
+            "area": "Whitehorse",
+            "region": "Eastern Suburbs",
+            "suburb": "BOX HILL",
+            "postcode": "3128",
+            "displayableAddress": "Lot 603/9-11 Prospect Street, Box Hill",
+            "latitude": -37.8185768,
+            "longitude": 145.118912,
+            "buildingArea": 95.0
+        },
+        "headline": "Construction commenced! 2-Bed luxurious Box Hill Apartmen",
+        "summaryDescription": "<b></b><br />Residing at the heart of Box Hill is 9 Prospect Street is a luxurious residential community in the heart of Melbourne's South-East. \r\n\r\nResidents can experience stunning views of the CBD and Dandenongs while enjoying five-star amenities  i...",
+        "hasFloorplan": true,
+        "hasVideo": false,
+        "labels": [
+            "New homes"
+        ],
+        "inspectionSchedule": {
+            "byAppointment": true,
+            "recurring": false,
+            "times": []
+        },
+        "listingSlug": "lot-603-9-11-prospect-street-box-hill-vic-3128-2017198614"
+    },
+    "2017285161": {
+        "type": "PropertyListing",
+        "listing": {
+            "listingType": "Sale",
+            "id": 2017285161,
+            "advertiser": {
+                "type": "Agency",
+                "id": 28347,
+                "name": "Buxton Camberwell",
+                "logoUrl": "https://images.domain.com.au/img/Agencys/28347/logo_28347.png",
+                "preferredColourHex": "#000000",
+                "bannerUrl": "https://images.domain.com.au/img/Agencys/28347/banner_28347.png",
+                "contacts": [
+                    {
+                        "name": "Nicole Lismore",
+                        "photoUrl": "https://images.domain.com.au/img/28347/contact_1343795.jpeg?mod=210928-184539"
+                    },
+                    {
+                        "name": "Tian Yu"
+                    }
+                ]
+            },
+            "priceDetails": {
+                "displayPrice": "Contact Agent"
+            },
+            "media": [
+                {
+                    "category": "Image",
+                    "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017285161_1_1_210928_084539-w1600-h1066"
+                },
+                {
+                    "category": "Image",
+                    "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017285161_2_1_210928_084539-w1600-h1067"
+                },
+                {
+                    "category": "Image",
+                    "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017285161_3_1_210928_084539-w1600-h1067"
+                },
+                {
+                    "category": "Image",
+                    "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017285161_4_1_210928_084539-w1600-h1067"
+                },
+                {
+                    "category": "Image",
+                    "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017285161_5_1_210928_084539-w1600-h1067"
+                }
+            ],
+            "propertyDetails": {
+                "state": "VIC",
+                "features": [
+                    "Floorboards",
+                    "Heating",
+                    "Study",
+                    "SolarPanels"
+                ],
+                "propertyType": "House",
+                "allPropertyTypes": [
+                    "House"
+                ],
+                "bathrooms": 2.0,
+                "bedrooms": 4.0,
+                "carspaces": 2,
+                "unitNumber": "",
+                "streetNumber": "44",
+                "street": "Glengarry Avenue",
+                "area": "Whitehorse",
+                "region": "Eastern Suburbs",
+                "suburb": "BURWOOD",
+                "postcode": "3125",
+                "displayableAddress": "44 Glengarry Avenue, Burwood",
+                "latitude": -37.8447227,
+                "longitude": 145.1178
+            },
+            "headline": "Your Own Secluded Hideaway With Spectacular Parkland Views",
+            "summaryDescription": "<b></b><br />INSPECTIONS BY PRIVATE APPOINTMENT ONLY, PLEASE CONTACT AGENT FOR DETAILS\r\nIn a tranquil world of its own and beautifully private, this blissful 4 bedroom, 2 bathroom urban retreat offers a unique lifestyle backing on to Gardiners Reserve ...",
+            "hasFloorplan": true,
+            "hasVideo": true,
+            "labels": [
+                "New"
+            ],
+            "auctionSchedule": {
+                "time": "2021-10-16T13:30:00",
+                "auctionLocation": "On Site"
+            },
+            "inspectionSchedule": {
+                "byAppointment": true,
+                "recurring": false,
+                "times": []
+            },
+            "listingSlug": "44-glengarry-avenue-burwood-vic-3125-2017285161"
+        }
+    },
+    "2017284648": {
+        "type": "PropertyListing",
+        "listing": {
+            "listingType": "Sale",
+            "id": 2017284648,
+            "advertiser": {
+                "type": "Agency",
+                "id": 28347,
+                "name": "Buxton Camberwell",
+                "logoUrl": "https://images.domain.com.au/img/Agencys/28347/logo_28347.png",
+                "preferredColourHex": "#000000",
+                "bannerUrl": "https://images.domain.com.au/img/Agencys/28347/banner_28347.png",
+                "contacts": [
+                    {
+                        "name": "Nicole Lismore",
+                        "photoUrl": "https://images.domain.com.au/img/28347/contact_1343795.jpeg?mod=210928-210607"
+                    },
+                    {
+                        "name": "Tian Yu"
+                    }
+                ]
+            },
+            "priceDetails": {
+                "displayPrice": "$1,200,000 - $1,250,000"
+            },
+            "media": [
+                {
+                    "category": "Image",
+                    "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017284648_1_1_210928_110607-w1600-h1067"
+                },
+                {
+                    "category": "Image",
+                    "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017284648_2_1_210928_063601-w1600-h1067"
+                },
+                {
+                    "category": "Image",
+                    "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017284648_3_1_210928_063601-w1600-h1067"
+                },
+                {
+                    "category": "Image",
+                    "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017284648_4_1_210928_063601-w1600-h1066"
+                },
+                {
+                    "category": "Image",
+                    "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017284648_5_1_210928_063601-w1600-h1067"
+                }
+            ],
+            "propertyDetails": {
+                "state": "VIC",
+                "features": [
+                    "Floorboards",
+                    "Heating"
+                ],
+                "propertyType": "Townhouse",
+                "allPropertyTypes": [
+                    "Townhouse"
+                ],
+                "bathrooms": 1.0,
+                "bedrooms": 3.0,
+                "carspaces": 1,
+                "unitNumber": "",
+                "streetNumber": "29",
+                "street": "Wallace Road",
+                "area": "Whitehorse",
+                "region": "Eastern Suburbs",
+                "suburb": "BURWOOD",
+                "postcode": "3125",
+                "displayableAddress": "29 Wallace Road, Burwood",
+                "latitude": -37.8472252,
+                "longitude": 145.099365
+            },
+            "headline": "Single-level Brilliance, Low-maintenance Ease",
+            "summaryDescription": "<b></b><br />A stunning low-maintenance sanctuary brilliantly appointed for modern living, this single-level home is an enticing investment, excellent choice for the first home buyer or prime scale-down option for downsizers. Beautiful natural light an...",
+            "hasFloorplan": true,
+            "hasVideo": false,
+            "labels": [
+                "New"
+            ],
+            "auctionSchedule": {
+                "time": "2021-10-16T10:30:00",
+                "auctionLocation": "On Site"
+            },
+            "inspectionSchedule": {
+                "byAppointment": true,
+                "recurring": false,
+                "times": []
+            },
+            "listingSlug": "29-wallace-road-burwood-vic-3125-2017284648"
+        }
+    },
+    "2017281940": {
+        "type": "PropertyListing",
+        "listing": {
+            "listingType": "Sale",
+            "id": 2017281940,
+            "advertiser": {
+                "type": "Agency",
+                "id": 18210,
+                "name": "Marshall White Boroondara",
+                "logoUrl": "https://images.domain.com.au/img/Agencys/18210/logo_18210.png?date=132212029982125454",
+                "preferredColourHex": "#25324D",
+                "bannerUrl": "https://images.domain.com.au/img/Agencys/18210/banner_18210.png?date=132212030145722463",
+                "contacts": [
+                    {
+                        "name": "Lisa Lou",
+                        "photoUrl": "https://images.domain.com.au/img/18210/contact_1656496.jpeg?mod=210927-211211"
+                    },
+                    {
+                        "name": "Shamit Verma",
+                        "photoUrl": "https://images.domain.com.au/img/18210/contact_1104439.jpeg?mod=210927-211212"
+                    }
+                ]
+            },
+            "priceDetails": {
+                "displayPrice": "Contact Agent"
+            },
+            "media": [
+                {
+                    "category": "Image",
+                    "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017281940_1_1_210927_080130-w1600-h1067"
+                },
+                {
+                    "category": "Image",
+                    "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017281940_2_1_210927_080130-w1600-h1067"
+                },
+                {
+                    "category": "Image",
+                    "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017281940_3_1_210927_080130-w1600-h1067"
+                },
+                {
+                    "category": "Image",
+                    "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017281940_4_1_210927_080130-w1600-h1067"
+                },
+                {
+                    "category": "Image",
+                    "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017281940_5_1_210927_080130-w1600-h1067"
+                }
+            ],
+            "propertyDetails": {
+                "state": "VIC",
+                "features": [
+                    "AirConditioning",
+                    "BuiltInWardrobes",
+                    "SecureParking",
+                    "Intercom"
+                ],
+                "propertyType": "House",
+                "allPropertyTypes": [
+                    "House"
+                ],
+                "bathrooms": 4.0,
+                "bedrooms": 4.0,
+                "carspaces": 2,
+                "unitNumber": "",
+                "streetNumber": "2/33",
+                "street": "Meldan Street",
+                "area": "Whitehorse",
+                "region": "Eastern Suburbs",
+                "suburb": "BURWOOD",
+                "postcode": "3125",
+                "displayableAddress": "2/33 Meldan Street, Burwood",
+                "latitude": -37.8441048,
+                "longitude": 145.1054
+            },
+            "headline": "Exemplary Executive Luxury",
+            "summaryDescription": "<b></b><br />Inspections By Private Appointment Thursday & Saturday between 11.30am - 12.30pm.  Contact Agent to book an inspection.\n\nPeacefully situated at the rear of just two, this stunning contemporary residence delivers every conceivable family lu...",
+            "hasFloorplan": true,
+            "hasVideo": false,
+            "labels": [
+                "New"
+            ],
+            "auctionSchedule": {
+                "time": "2021-10-21T18:00:00",
+                "auctionLocation": "On Site"
+            },
+            "inspectionSchedule": {
+                "byAppointment": true,
+                "recurring": false,
+                "times": []
+            },
+            "listingSlug": "2-33-meldan-street-burwood-vic-3125-2017281940"
+        }
+    },
+    "2017281785": {
+        "type": "PropertyListing",
+        "listing": {
+            "listingType": "Sale",
+            "id": 2017281785,
+            "advertiser": {
+                "type": "Agency",
+                "id": 24974,
+                "name": "LITTLE Real Estate Victoria",
+                "logoUrl": "https://images.domain.com.au/img/Agencys/24974/logo_24974.GIF",
+                "preferredColourHex": "#ce2127",
+                "bannerUrl": "https://images.domain.com.au/img/Agencys/24974/banner_24974.GIF",
+                "contacts": [
+                    {
+                        "name": "David Ferro",
+                        "photoUrl": "https://images.domain.com.au/img/24974/contact_1753671.jpeg?mod=210927-171633"
+                    },
+                    {
+                        "name": "Andrew Car",
+                        "photoUrl": "https://images.domain.com.au/img/24974/contact_1587149.jpeg?mod=210927-171634"
+                    }
+                ]
+            },
+            "priceDetails": {
+                "displayPrice": "$1,350,000 - $1,485,000"
+            },
+            "media": [
+                {
+                    "category": "Image",
+                    "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017281785_1_1_210927_071633-w4500-h2998"
+                },
+                {
+                    "category": "Image",
+                    "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017281785_2_1_210927_071633-w4500-h3000"
+                },
+                {
+                    "category": "Image",
+                    "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017281785_3_1_210927_071633-w4500-h3000"
+                },
+                {
+                    "category": "Image",
+                    "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017281785_4_1_210927_071633-w4500-h3000"
+                },
+                {
+                    "category": "Image",
+                    "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017281785_5_1_210927_071633-w4500-h3000"
+                }
+            ],
+            "propertyDetails": {
+                "state": "VIC",
+                "features": [
+                    "Ensuite",
+                    "SecureParking",
+                    "AlarmSystem",
+                    "Heating",
+                    "Dishwasher"
+                ],
+                "propertyType": "House",
+                "allPropertyTypes": [
+                    "House"
+                ],
+                "bathrooms": 2.0,
+                "bedrooms": 3.0,
+                "carspaces": 2,
+                "unitNumber": "",
+                "streetNumber": "2C",
+                "street": "Wellesley Street",
+                "area": "Whitehorse",
+                "region": "Eastern Suburbs",
+                "suburb": "MONT ALBERT",
+                "postcode": "3127",
+                "displayableAddress": "2C Wellesley Street, Mont Albert",
+                "latitude": -37.817688,
+                "longitude": 145.102066
+            },
+            "headline": "Position perfect",
+            "summaryDescription": "<b></b><br />**INSPECTIONS BY APPOINTMENT ONLY. ADVERTISED INSPECTION TIMES ARE FOR REGISTERED BUYERS ONLY. NO ENTRY PERMITTED WITHOUT PRIOR APPOINTMENT**\r\n\r\nShowcasing all the stylish simplicity of single-level living, this spacious 3 bedroom, 2 bathr...",
+            "hasFloorplan": true,
+            "hasVideo": false,
+            "labels": [
+                "New"
+            ],
+            "inspectionSchedule": {
+                "byAppointment": true,
+                "recurring": false,
+                "times": []
+            },
+            "listingSlug": "2c-wellesley-street-mont-albert-vic-3127-2017281785"
+        }
+    }
+}
