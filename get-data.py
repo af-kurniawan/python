@@ -101,8 +101,12 @@ def overwriteFile(new_data):
     else:
         save_to_file(new_data)
 
+def search_and_save(base_url, body):
+    to_save = get_listings(base_url, body)
+    overwriteFile(to_save)
+
 def count_file_length(file_name):
-    with open(file_name, 'r') as f:
+    with open(file_name, 'r', encoding='utf-8') as f:
         data = json.load(f)
     print(len(data.keys()))
 
@@ -110,6 +114,7 @@ def count_file_length(file_name):
 def search_big_area(city, state, maxFraction=1500000):
     n = 50000
     arr = []
+    to_save = {}
     while n <= maxFraction:
         arr.append(n)
         n += 50000
@@ -117,11 +122,23 @@ def search_big_area(city, state, maxFraction=1500000):
     for price in arr:
         body['minPrice'] = price
         body['maxPrice'] = price + 50000
-        getSearchCount(body)    
+        to_save.update(get_listings(BASE_URL, body))
+        print(len(to_save.keys()))
+        
+
+        # for counting
+        # getSearchCount(body)    
     # search the rest
     body['minPrice'] = maxFraction
     body['maxPrice'] = None
-    getSearchCount(body)
+    to_save.update(get_listings(BASE_URL, body))
+    print(len(to_save.keys()))
+    overwriteFile(to_save)
+
+
+
+    # for counting
+    # getSearchCount(body)
 
 # to_save = get_listings(BASE_URL, test_body)
 # print(len(to_save.keys()))
@@ -129,5 +146,5 @@ def search_big_area(city, state, maxFraction=1500000):
 
 # getSearchCount(getBody('North', 'VIC'))
 
-search_big_area('West', 'VIC', 1100000)
-# count_file_length('data.json')
+# search_big_area('West', 'VIC', 1100000)
+count_file_length('data.json')
