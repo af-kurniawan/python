@@ -89,7 +89,7 @@ def save_to_file(data):
 def overwriteFile(new_data):
     filename = 'data.json'
     if os.path.exists(filename):
-        with open(filename, 'r') as f:
+        with open(filename, 'r', encoding='utf-8') as f:
             data = json.load(f)
             data.update(new_data)
             
@@ -125,7 +125,6 @@ def search_big_area(city, state, maxFraction=1500000):
         to_save.update(get_listings(BASE_URL, body))
         print(len(to_save.keys()))
         
-
         # for counting
         # getSearchCount(body)    
     # search the rest
@@ -135,10 +134,20 @@ def search_big_area(city, state, maxFraction=1500000):
     print(len(to_save.keys()))
     overwriteFile(to_save)
 
-
-
     # for counting
     # getSearchCount(body)
+
+
+def search_multiple_areas(arr, state):
+    to_save = {}
+    for ar in arr:
+        body = getBody(ar, state)
+        to_save.update(get_listings(BASE_URL, body))
+        print(len(to_save.keys()))
+    print(len(to_save.keys()))
+    overwriteFile(to_save)
+
+
 
 # to_save = get_listings(BASE_URL, test_body)
 # print(len(to_save.keys()))
@@ -147,4 +156,5 @@ def search_big_area(city, state, maxFraction=1500000):
 # getSearchCount(getBody('North', 'VIC'))
 
 # search_big_area('West', 'VIC', 1100000)
+search_multiple_areas(MELBOURNE_AREAS, 'VIC')
 count_file_length('data.json')
