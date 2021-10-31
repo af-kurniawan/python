@@ -41,7 +41,7 @@ def connect_db():
 	db = firestore.client()
 
 def add_json(file_path):
-	with open(file_path, 'r') as f:
+	with open(file_path, 'r', encoding='utf-8') as f:
 		data = json.load(f)
 
 	# ref = db.reference("/")

@@ -147,6 +147,14 @@ def search_multiple_areas(arr, state):
     print(len(to_save.keys()))
     overwriteFile(to_save)
 
+def search_all():
+    search_big_area('West', 'VIC', 1100000)
+    search_big_area('North', 'VIC', 1100000)
+    search_multiple_areas(MELBOURNE_AREAS, 'VIC')
+    count_file_length('data.json')
+
+
+
 
 
 # to_save = get_listings(BASE_URL, test_body)
